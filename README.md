@@ -1,7 +1,7 @@
 ### Hi there 👋, nice to meet ya!
 
 
-![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+
 
 
 <!--
