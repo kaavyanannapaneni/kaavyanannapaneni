@@ -1,6 +1,10 @@
 ### Hi there 👋, nice to meet ya!
 
-
+Skills
+ - Java
+ - C
+ - HTML | CSS
+ - Javascript (ES6)
 
 
 
