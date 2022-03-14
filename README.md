@@ -1,6 +1,5 @@
 ### Hi there 👋, nice to meet ya!
 
-![Codepen](https://codepen.io/hello_im_kvy)
 
 
 
