@@ -1,7 +1,5 @@
 ### Hi there 👋, nice to meet ya!
 
-#### Appreciate you for landing here.
-
 <!--
 **kaavyanannapaneni/kaavyanannapaneni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
