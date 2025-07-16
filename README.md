@@ -1,5 +1,5 @@
 ### Hi there 👋, nice to meet ya!
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG1ybm1ydWZhZjhtZWVpbTRmZXFrM3Bvc2RrYnFneGJrM2IxMTNldSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KH2VmpPQ75iPtqhgrx/giphy.gif" width="100%" height="400px">
+<img src="" width="100%" height="400px">
 <!--
 **kaavyanannapaneni/kaavyanannapaneni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
