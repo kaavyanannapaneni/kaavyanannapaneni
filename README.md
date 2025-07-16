@@ -1,5 +1,5 @@
 ### Hi there 👋, nice to meet ya!
-![]([https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjlpdHFlMGEyd3lwczQ1NHhqaHF5bTZ6NHZ6a3V5dGQ0YnB1aG9zbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KHh7jLrG6gIXBTnxsp/giphy.gif))
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjlpdHFlMGEyd3lwczQ1NHhqaHF5bTZ6NHZ6a3V5dGQ0YnB1aG9zbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KHh7jLrG6gIXBTnxsp/giphy.gif" width="300">
 <!--
 **kaavyanannapaneni/kaavyanannapaneni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
